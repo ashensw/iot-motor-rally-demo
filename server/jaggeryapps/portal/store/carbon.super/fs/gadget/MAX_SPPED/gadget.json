@@ -1,0 +1,9 @@
+{
+    "id": "MAX_SPPED",
+    "title": "MAX SPPED",
+    "type": "gadget",
+    "thumbnail": "gadget/MAX_SPPED/thumbnail.png",
+    "data": {
+        "url": "gadget/MAX_SPPED/gadget.xml"
+    }
+}

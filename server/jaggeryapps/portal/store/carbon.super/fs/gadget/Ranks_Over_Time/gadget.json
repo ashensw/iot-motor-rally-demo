@@ -1,0 +1,9 @@
+{
+    "id": "Ranks_Over_Time",
+    "title": "Ranks Over Time",
+    "type": "gadget",
+    "thumbnail": "gadget/Ranks_Over_Time/thumbnail.png",
+    "data": {
+        "url": "gadget/Ranks_Over_Time/gadget.xml"
+    }
+}

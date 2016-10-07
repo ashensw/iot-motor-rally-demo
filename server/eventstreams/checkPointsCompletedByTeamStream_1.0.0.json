@@ -1,0 +1,16 @@
+{
+  "name": "checkPointsCompletedByTeamStream",
+  "version": "1.0.0",
+  "nickName": "",
+  "description": "",
+  "payloadData": [
+    {
+      "name": "team_name",
+      "type": "STRING"
+    },
+    {
+      "name": "completed_count",
+      "type": "INT"
+    }
+  ]
+}

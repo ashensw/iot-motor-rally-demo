@@ -1,0 +1,12 @@
+{
+  "name": "testStream",
+  "version": "1.0.0",
+  "nickName": "",
+  "description": "",
+  "payloadData": [
+    {
+      "name": "x",
+      "type": "INT"
+    }
+  ]
+}

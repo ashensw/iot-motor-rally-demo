@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventPublisher name="MOTOR_RALLY_LEADERBOARD_STREAM"
+  statistics="disable" trace="disable" xmlns="http://wso2.org/carbon/eventpublisher">
+  <from
+    streamName="org.wso2.iot.analytics.stream.MotorRallyLeaderBoardStream" version="1.0.0"/>
+  <mapping customMapping="disable" type="wso2event"/>
+  <to eventAdapterType="ui"/>
+</eventPublisher>

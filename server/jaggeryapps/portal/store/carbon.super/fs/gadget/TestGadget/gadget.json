@@ -1,0 +1,9 @@
+{
+    "id": "TestGadget",
+    "title": "TestGadget",
+    "type": "gadget",
+    "thumbnail": "gadget/TestGadget/thumbnail.png",
+    "data": {
+        "url": "gadget/TestGadget/gadget.xml"
+    }
+}

@@ -1,0 +1,1 @@
+{"provider-conf" : {"streamName" : "org.wso2.iot.analytics.stream.MaxSpeedOfAllTeamsStream:1.0.0", "provider-name" : "realtime"}, "chart-conf" : {"x" : "max_speed", "title" : "MAX SPEED", "maxLength" : "30", "gadget-name" : "MAX SPPED", "chart-name" : "number-chart"}}

@@ -1,0 +1,9 @@
+{
+    "id": "MAXSPEEDPERTEAM",
+    "title": "MAXSPEEDPERTEAM",
+    "type": "gadget",
+    "thumbnail": "gadget/MAXSPEEDPERTEAM/thumbnail.png",
+    "data": {
+        "url": "gadget/MAXSPEEDPERTEAM/gadget.xml"
+    }
+}

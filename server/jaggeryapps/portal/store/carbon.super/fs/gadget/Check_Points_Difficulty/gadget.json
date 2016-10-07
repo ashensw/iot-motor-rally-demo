@@ -1,0 +1,9 @@
+{
+    "id": "Check_Points_Difficulty",
+    "title": "Check Points Difficulty",
+    "type": "gadget",
+    "thumbnail": "gadget/Check_Points_Difficulty/thumbnail.png",
+    "data": {
+        "url": "gadget/Check_Points_Difficulty/gadget.xml"
+    }
+}

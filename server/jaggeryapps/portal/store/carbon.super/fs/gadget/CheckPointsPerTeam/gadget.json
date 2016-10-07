@@ -1,0 +1,9 @@
+{
+    "id": "CheckPointsPerTeam",
+    "title": "CheckPointsPerTeam",
+    "type": "gadget",
+    "thumbnail": "gadget/CheckPointsPerTeam/thumbnail.png",
+    "data": {
+        "url": "gadget/CheckPointsPerTeam/gadget.xml"
+    }
+}

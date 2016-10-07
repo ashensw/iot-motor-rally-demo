@@ -1,0 +1,1 @@
+{"provider-conf" : {"streamName" : "org.wso2.iot.analytics.stream.AvgSpeedOfAllTeamsStream:1.0.0", "provider-name" : "realtime"}, "chart-conf" : {"x" : "avg_speed", "title" : "AVERAGE SPEED", "maxLength" : "30", "gadget-name" : "AVERAGESPEED", "chart-name" : "number-chart"}}

@@ -1,0 +1,62 @@
+{
+  "name": "tempStream4",
+  "version": "1.0.0",
+  "nickName": "",
+  "description": "",
+  "metaData": [
+    {
+      "name": "teamId",
+      "type": "STRING"
+    },
+    {
+      "name": "teamName",
+      "type": "STRING"
+    }
+  ],
+  "payloadData": [
+    {
+      "name": "currentTime",
+      "type": "LONG"
+    },
+    {
+      "name": "latitude",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "longitude",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "speed",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "avgSpeedPerTeam",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "totalDistanceTraveled",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "totalDurationTraveled",
+      "type": "LONG"
+    },
+    {
+      "name": "maxSpeedPerTeam",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "maxSpeedOfAllTeams",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "avgSpeedOfAllTeams",
+      "type": "DOUBLE"
+    },
+    {
+      "name": "heading",
+      "type": "DOUBLE"
+    }
+  ]
+}

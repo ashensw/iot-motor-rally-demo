@@ -1,0 +1,9 @@
+{
+    "id": "LEADERBOARD",
+    "title": "LEADERBOARD",
+    "type": "gadget",
+    "thumbnail": "gadget/LEADERBOARD/thumbnail.png",
+    "data": {
+        "url": "gadget/LEADERBOARD/gadget.xml"
+    }
+}

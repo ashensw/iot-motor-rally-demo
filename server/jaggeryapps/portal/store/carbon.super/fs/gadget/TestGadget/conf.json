@@ -1,0 +1,1 @@
+{"provider-conf" : {"tableName" : "CHECKPOINT_TIME_INDIVIDUAL_VS_OVERALL", "dataRange" : "Retrieve all data", "dataOrder" : "None", "provider-name" : "motorRally"}, "chart-conf" : {"x" : "check_point", "y" : "time_taken", "color" : "category", "mode" : "group", "maxLength" : "30", "gadget-name" : "TestGadget", "chart-name" : "bar-chart"}}

@@ -1,0 +1,1 @@
+{"provider-conf" : {"tableName" : "CHECKPOINT_TIME_INDIVIDUAL_VS_OVERALL", "query" : "team_name:KISS_MY_ASSPHALT", "limit" : "", "provider-name" : "batch"}, "chart-conf" : {"x" : "check_point", "y" : "time_taken", "color" : "category", "mode" : "group", "maxLength" : "30", "gadget-name" : "TestCPT", "chart-name" : "bar-chart"}}

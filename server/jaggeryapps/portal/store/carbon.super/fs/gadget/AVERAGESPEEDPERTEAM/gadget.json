@@ -1,0 +1,9 @@
+{
+    "id": "AVERAGESPEEDPERTEAM",
+    "title": "AVERAGESPEEDPERTEAM",
+    "type": "gadget",
+    "thumbnail": "gadget/AVERAGESPEEDPERTEAM/thumbnail.png",
+    "data": {
+        "url": "gadget/AVERAGESPEEDPERTEAM/gadget.xml"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "id": "AVERAGESPEED",
+    "title": "AVERAGESPEED",
+    "type": "gadget",
+    "thumbnail": "gadget/AVERAGESPEED/thumbnail.png",
+    "data": {
+        "url": "gadget/AVERAGESPEED/gadget.xml"
+    }
+}
