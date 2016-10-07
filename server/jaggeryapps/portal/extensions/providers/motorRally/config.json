@@ -1,0 +1,39 @@
+{
+    "info": {
+        "id": "motorRally",
+        "name": "Motor Rally Analytics Data Source",
+        "image": ""
+    },
+    "config": [
+        {
+            "fieldType": "advanced",
+            "wizard-imports": {
+                "js": [
+                    "mainHandler.js"
+                ]
+            }
+        },
+        {
+            "fieldLabel": "Event Table",
+            "fieldName": "tableName",
+            "fieldType": "dropDown"
+        },
+        {
+            "fieldLabel": "Select data range",
+            "fieldName": "dataRange",
+            "fieldType": "dropDown"
+        },
+        {
+            "fieldLabel": "Select data order",
+            "fieldName": "dataOrder",
+            "fieldType": "dropDown"
+        },
+        {
+            "fieldLabel": "Select table attribute",
+            "fieldName": "orderAttribute",
+            "fieldType": "dropDown"
+        }
+    ],
+    "provider-libs" : ["das-client.js", "carbon-analytics.js", "motorRallyAnalyticsDataRanges.js"],
+    "provider-apis": ["motorRallyAnalyticsDataRanges.js", "client.js"]
+}
